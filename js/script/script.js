@@ -21,7 +21,7 @@ read.addEventListener('click', function(){
     // Pour gérer le chiffre 1 qui pour lequel les paroles change pour ne pas avoir de s et ainsi pour la deuxième partie de la chanson qui sera sans bolée
 
     else if (bolee==1){
-        text.innerHTML = bolee + " bolées de cidre sur le mur, " + bolee + " bolées sans alcool.</br> Bois en un et au suivant ! Plus de bolées de cidre sur le mur.";
+        text.innerHTML = bolee + " bolée de cidre sur le mur, " + bolee + " bolée sans alcool.</br> Bois en un et au suivant ! Plus de bolées de cidre sur le mur.";
     }
 
     // Dans le cas où rien n'est rentrer tout en validant
