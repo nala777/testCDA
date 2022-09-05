@@ -1,0 +1,28 @@
+body{
+    background-image: url("../images/nuit.jpg");
+    background-position: center;
+}
+
+main{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    color : white;
+    margin-top: 30px;
+}
+
+#chanson{
+    border-radius: 10px;
+    border: solid 1px black;
+    margin: 75px auto;
+    width: 450px;
+    padding: 15px;
+    background-color: white;
+}
+
+#chanson h2{
+    font-size: 1.2em;
+}
