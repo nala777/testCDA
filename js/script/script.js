@@ -15,7 +15,7 @@ read.addEventListener('click', function(){
     // Pour gérer le chiffre 2 pour lequel la deuxième partie de la chanson sera au singulier
 
     else if (bolee==2){
-            text.innerHTML = bolee + " bolées de cidre sur le mur, " + bolee + " bolées sans alcool.</br>  Bois en un et au suivant ! " + (bolee-1) + " boléee de cidre sur le mur .";
+            text.innerHTML = bolee + " bolées de cidre sur le mur, " + bolee + " bolées sans alcool.</br>  Bois en un et au suivant ! " + (bolee-1) + " bolée de cidre sur le mur .";
     }
 
     // Pour gérer le chiffre 1 qui pour lequel les paroles change pour ne pas avoir de s et ainsi pour la deuxième partie de la chanson qui sera sans bolée
