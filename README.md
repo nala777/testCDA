@@ -1,6 +1,8 @@
 # Test CDA
 
 Voila le test que j'ai réalisé pour le test d'entrée pour la formation CDA
+Il suffira juste de cloner le dépot et votre navigateur pour le faire fonctionner.
+
 
 ## Règles du jeu
 
