@@ -39,6 +39,6 @@ read.addEventListener('click', function(){
     // Ici pour gérer le reste qui sera compris entre 3 et 99 comme on à gerer toutes les exceptions
 
     else{
-        text.innerHTML = bolee + " bolées de cidre sur le mur, " + bolee + " bolées sans alcool. </br> Bois en un et au suivant ! " + (bolee-1) + " boléees de cidre sur le mur .";
+        text.innerHTML = bolee + " bolées de cidre sur le mur, " + bolee + " bolées sans alcool. </br> Bois en un et au suivant ! " + (bolee-1) + " bolées de cidre sur le mur .";
     }
 })
